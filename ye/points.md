@@ -1,0 +1,10 @@
+- **Facebook blocked DistroWatch links in January 2025.**  
+- **Users received warnings and account restrictions for sharing DistroWatch links.**  
+- **Facebook's cybersecurity filter flagged DistroWatch.**  
+- **Reason: DistroWatch linked to an external site that had been hacked.**  
+- **DistroWatch itself was not hacked.**  
+- **Editor Jesse Smith tried appealing but had his account locked.**  
+- **Facebook later admitted the block was a mistake.**  
+- **The ban was lifted, and Linux-related content was clarified as allowed.**  
+- **Automated moderation systems can misidentify legitimate sites.**  
+- **Overblocking by tech companies raises concerns about control over online content.**  

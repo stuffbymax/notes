@@ -1,0 +1,39 @@
+source venv/bin/activate
+
+
+
+
+
+
+
+
+
+
+
+
+
+sudo modprobe vboxdrv
+
+gcc test.c -o test -lncurses
+
+To just see what portage will install you can use:
+emerge <package> -pv
+It will only display the packages
+
+You can run emerge with --quiet flag, then it doesn't show all the compilation output
+
+if some packages require changes in use flags or unmasking, and you don't want to do that maually you can use:
+emerge --ask --autounmask --autounmask-write=y
+It will create a remporary changes file, and you can apply it with:
+dispatch-conf, and press U to use them
+
+If you want to be up to date with the newest packages, run:
+emerge --sync
+once in a while, it refreshes available packages.
+
+If some package is masked for your architecture, you can add it's name in:
+/etc/portage/package/accept_keywords/<ANYFILE>
+
+ps3-gentoo-installer --username <YOUR USERNAME> --password <YOUR PASSWORD> --device /dev/ps3dd
+
+
