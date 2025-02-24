@@ -1,0 +1,3 @@
+- add cost
+- all tasks
+- and which task can be done at same time
