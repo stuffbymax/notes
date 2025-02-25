@@ -2,3 +2,6 @@ ollama list --remote
 ollama pull <model_name>
 ollama run <model_name>
 
+
+
+https://www.101computing.net/little-man-computer-mini-challenges/
